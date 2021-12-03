@@ -1,0 +1,10 @@
+@font-face {
+	font-family: "Inter UI Regular";
+	font-style: normal;
+	font-weight: normal;
+	src: url("./fonts/Inter-UI-Regular.woff") format("woff");
+}
+
+:root {
+	font-family: "Inter UI Regular";
+}
